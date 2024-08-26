@@ -1,0 +1,15 @@
+Study_ID,First Author,Year,Country,CountryFlag,Outcome Domain,Classification,Total Tests,Statistically Significant Tests,Effect Size
+16,Leadbeater,2016,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,SEC,Low,2,2,"Beta range = [0.11, 0.12]"
+31,Low,2015,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,SEC,Low,6,6,"Beta range = [*0.15, 0.13]"
+17,Leadbeater,2018,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,SEC,Medium,1,1,Beta = 0.04
+18,Low,2014,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Attitudes towards others,Medium,2,1,Beta = 0.37
+18,Low,2014,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Attitudes towards school,Medium,5,3,"Beta range = [0.13, 0.21]"
+31,Low,2015,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Prosocial behaviour,Low,1,1,Beta = 0.05
+18,Low,2014,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Prosocial behaviour,Medium,2,0,
+16,Leadbeater,2016,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Emotional distress,Low,2,0,
+31,Low,2015,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Emotional distress,Low,1,1,Beta = *0.13
+17,Leadbeater,2018,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Emotional distress,Medium,2,1,Beta = 0.06
+18,Low,2014,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Emotional distress,Medium,1,1,"Beta = 0.22, SE = 0.09 "
+16,Leadbeater,2016,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Aggression,Low,1,0,
+31,Low,2015,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Aggression,Low,3,3,"Beta range = [*0.12, *0.03]"
+5,Cook,2018,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Aggression,Medium,1,1,Beta = 0.13
